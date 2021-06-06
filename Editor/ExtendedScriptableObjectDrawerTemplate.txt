@@ -1,0 +1,10 @@
+using UnityEditor;
+
+[CustomPropertyDrawer(typeof(#SCRIPTNAME#), true)]
+public class #SCRIPTNAME#PropertyDrawer : ExtendedScriptableObjectDrawer
+{
+
+}
+
+
+

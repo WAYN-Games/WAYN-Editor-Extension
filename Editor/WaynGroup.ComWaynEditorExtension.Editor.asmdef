@@ -1,0 +1,10 @@
+{
+    "name": "WaynGroup.ComWaynEditorExtension.Editor",
+    "references": [
+      "WaynGroup.ComWaynEditorExtension"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
