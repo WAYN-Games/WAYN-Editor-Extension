@@ -1,8 +1,10 @@
 {
-  "name": "com.wayn_group.editor.extension",
+  "name": "com.wayn-games.editor.extension",
   "displayName": "WAYN Editor Extension",
-  "version": "0.1.0",
-  "unity": "2020.3",  "author": { "name" : "WAYN Games"
-},
-  "description": "This package provide editor extension that can be reused accros projects."
+  "version": "0.2.0",
+  "unity": "2020.3",
+  "author": {
+    "name": "WAYN Games"
+  },
+  "description": "This package provide editor extension that can be reused accross projects."
 }
