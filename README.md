@@ -22,4 +22,12 @@ To use this, you'll need to:
 
 2. Use the contextual menu "Assets/Create/WAYN/Editor/ExtendedScriptableObjectDrawer" to create a templated editor script
 
-3. Input the classname of the scriptable object you which to make the property drawer for
+3. Input the classname of the scriptable object for which you want to make a property drawer 
+
+# Importing to project
+##Using GIT
+To import this package to your project :
+1) Open the PackageManager
+2) Click on the "+" icon
+3) Add package from git URL
+4) Paste the git url of this porject
