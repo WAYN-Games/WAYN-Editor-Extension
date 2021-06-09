@@ -1,4 +1,4 @@
-﻿// Developed by Tom Kail at Inkle
+﻿// Developed by Tom Kail at Inkle (https://gist.github.com/tomkail/ba4136e6aa990f4dc94e0d39ec6a058c)
 // Released under the MIT Licence as held at https://opensource.org/licenses/MIT
 
 // Must be placed within a folder named "Editor"
