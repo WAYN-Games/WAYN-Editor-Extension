@@ -1,7 +1,7 @@
 {
   "name": "com.wayn-games.editor.extension",
   "displayName": "WAYN Editor Extension",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "unity": "2020.3",
   "author": {
     "name": "WAYN Games"
