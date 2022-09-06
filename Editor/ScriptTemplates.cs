@@ -1,18 +1,18 @@
 ﻿using UnityEditor;
 
-namespace WaynGroup.Mgm.Ability
+namespace WaynGames.EditorExtension
 {
     internal class ScriptTemplates
     {
 
-        public const string TemplatesRoot = "Packages/com.wayn_group.editor.extension/Editor";
+        public const string TemplatesRoot = "Packages/com.wayn-games.editor.extension/Editor";
 
         [MenuItem("Assets/Create/WAYN/Editor/ExtendedScriptableObjectDrawer")]
-        public static void CreateAbilityEffectType()
+        public static void CreateExtendedScriptableObjectDrawer()
         {
             ProjectWindowUtil.CreateScriptAssetFromTemplateFile(
                 $"{TemplatesRoot}/ExtendedScriptableObjectDrawerTemplate.txt",
-                "NewEffect.cs");
+                "ExtendedScriptableObjectDrawer.cs");
         }
        
     }
