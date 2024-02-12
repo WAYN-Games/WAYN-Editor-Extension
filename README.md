@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M8UEQP8)
+
 # Summary
 
 This package aims at providing usefull editor extension that can be reused across project.
